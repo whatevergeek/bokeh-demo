@@ -1,9 +1,4 @@
 
-
-
-https://www.meetup.com/PyData-SG/events/249372465/
-
-
 # Visualizing Data With Bokeh
 
 Presentation/demo materials shared by Paul Amazona during the PyData Meetup on 20180410.    
